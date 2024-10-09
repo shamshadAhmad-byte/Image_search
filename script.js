@@ -1,4 +1,4 @@
-const accessKey = "UxG8neqvwCaRFAjRfDV8jXNko6vBfYZ7VtZ3y6nn42Y";
+const accessKey = "please enter your pass key id";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
